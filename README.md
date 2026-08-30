@@ -68,27 +68,6 @@ Fresh strawberries, ice cubes, and sparkling bubbles splashing in the air, brigh
 
 A strawberry sparkling drink can placed in the center with fresh strawberries and ice cubes around it, clean pink background, minimal commercial product composition, empty space for brand text, bright refreshing mood, no text, 16:9
 
-## 8. 폴더 구조
-
-```text
-berrypop-ai-ad
-├── README.md
-├── images
-│   ├── scene01_tired_afternoon.png
-│   ├── scene02_drink_product.png
-│   ├── scene03_berry_sparkle.png
-│   └── scene04_brand_end.png
-├── videos
-│   ├── scene01_tired_afternoon_motion.mp4
-│   ├── scene02_drink_product_motion.mp4
-│   ├── scene03_berry_sparkle_motion.mp4
-│   └── scene04_brand_end_motion.mp4
-├── audio
-│   └── berrypop_bgm.mp3
-├── storyboard
-│   └── storyboard.pdf
-└── final
-    └── final_ad.mp4
 
 
 
