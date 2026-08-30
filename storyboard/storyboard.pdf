@@ -1,0 +1,104 @@
+# BerryPop 광고 스토리보드
+
+## 1. 브랜드 아이덴티티
+
+- 브랜드명: BerryPop
+- 제품: 딸기 탄산음료
+- 타겟: 상큼하고 가벼운 음료를 좋아하는 10~20대
+- 톤앤매너: 상큼함, 청량함, 밝음, 에너지
+- USP: 딸기의 달콤함과 탄산의 청량함을 동시에 느낄 수 있는 음료
+- 핵심 메시지: 톡 터지는 상큼함, BerryPop!
+
+## 2. 캠페인 목표
+
+BerryPop이라는 브랜드를 처음 보는 사람에게 상큼하고 청량한 이미지를 전달한다.
+
+## 3. 사용 도구
+
+- 이미지 생성: DALL·E 또는 Leonardo AI
+- 비디오 변환: Pika 또는 Runway
+- 오디오 생성: Suno 또는 Udio
+- 편집: CapCut
+
+## 4. 씬 구성
+
+### Scene 01
+
+- 씬 길이: 2초
+- 목표 메시지: 나른하고 지친 오후 분위기를 보여준다.
+- 화면 구성: 책상 앞에 앉아 지친 학생 또는 직장인
+- 화면 카피: 나른한 오후,
+- 이미지 프롬프트:
+A tired young student sitting at a desk on a warm afternoon, laptop and books on the table, slightly exhausted mood, sunlight through the window, realistic commercial film still, bright but low-energy atmosphere, no text, 16:9
+- 영상 프롬프트:
+Slow camera push-in, warm afternoon sunlight, tired calm atmosphere
+- 결과 파일명:
+images/scene01_tired_afternoon.png
+videos/scene01_tired_afternoon_motion.mp4
+
+### Scene 02
+
+- 씬 길이: 2초
+- 목표 메시지: BerryPop 음료가 해결책처럼 등장한다.
+- 화면 구성: 얼음과 딸기 옆에 놓인 차가운 딸기 탄산음료 캔
+- 화면 카피: 상큼함이 필요할 때
+- 이미지 프롬프트:
+A cold strawberry sparkling drink can on a desk with ice cubes and fresh strawberries around it, condensation on the can, bright refreshing commercial style, pink and white color palette, premium product shot, no readable text, no logo, 16:9
+- 영상 프롬프트:
+Slow zoom in on the cold strawberry drink can, ice sparkling, refreshing commercial motion
+- 결과 파일명:
+images/scene02_drink_product.png
+videos/scene02_drink_product_motion.mp4
+
+### Scene 03
+
+- 씬 길이: 2초
+- 목표 메시지: 딸기와 탄산의 청량함을 강조한다.
+- 화면 구성: 딸기, 얼음, 탄산 기포가 공중에 떠오르는 장면
+- 화면 카피: 톡 터지는 딸기 에너지
+- 이미지 프롬프트:
+Fresh strawberries, ice cubes, and sparkling bubbles splashing in the air, bright pink background, energetic refreshing beverage advertisement style, cinematic lighting, high detail, no text, 16:9
+- 영상 프롬프트:
+Strawberries and bubbles gently floating upward, ice cubes sparkling, energetic refreshing motion
+- 결과 파일명:
+images/scene03_berry_sparkle.png
+videos/scene03_berry_sparkle_motion.mp4
+
+### Scene 04
+
+- 씬 길이: 3초
+- 목표 메시지: 브랜드명과 슬로건을 각인시킨다.
+- 화면 구성: 중앙에 놓인 딸기 탄산음료 캔, 딸기와 얼음, 깨끗한 배경
+- 화면 카피:
+BerryPop
+톡 터지는 상큼함!
+- 이미지 프롬프트:
+A strawberry sparkling drink can placed in the center with fresh strawberries and ice cubes around it, clean pink background, minimal commercial product composition, empty space for brand text, bright refreshing mood, no text, 16:9
+- 영상 프롬프트:
+Elegant slow zoom in on the drink can, bright pink background, premium brand ending shot
+- 결과 파일명:
+images/scene04_brand_end.png
+videos/scene04_brand_end_motion.mp4
+
+## 5. 프롬프트 수정 전/후 기록
+
+### 대상 씬
+Scene 02 음료 등장 장면
+
+### 수정 전 프롬프트
+A strawberry soda can on a desk, fresh and beautiful
+
+### 문제점
+제품이 광고처럼 고급스럽게 보이지 않고, 탄산음료의 시원함이 부족했다.
+
+### 수정 후 프롬프트
+A cold strawberry sparkling drink can on a desk with ice cubes and fresh strawberries around it, condensation on the can, bright refreshing commercial style, pink and white color palette, premium product shot, no readable text, no logo, 16:9
+
+### 수정 이유
+- cold, ice cubes, condensation을 넣어 시원함을 강조했다.
+- fresh strawberries를 넣어 딸기 음료라는 점을 분명하게 했다.
+- premium product shot을 넣어 광고 이미지처럼 보이게 했다.
+- no readable text, no logo를 넣어 AI가 이상한 글자를 만들지 않게 했다.
+
+### 결과 변화
+음료가 더 시원하고 상큼하게 보였고, 제품 광고 장면으로 더 적합해졌다.
