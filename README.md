@@ -89,3 +89,9 @@ berrypop-ai-ad
 │   └── storyboard.pdf
 └── final
     └── final_ad.mp4
+
+## 최종 광고 영상
+
+영상이 바로 보이지 않으면 아래 링크를 클릭하세요.
+
+[BerryPop 최종 광고 영상 보기](./final/final_ad.mp4)
